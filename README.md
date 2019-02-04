@@ -90,4 +90,4 @@ Make sure to extract the .bin file from the .gz file and place it in the root fo
 | MAP | 0.6725 | 
 | MMR | 0.6872 |
 
-![BCNN-Result-Graph](ABCNN1.png)
+![ABCNN-Result-Graph](ABCNN.png)
